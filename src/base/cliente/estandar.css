@@ -1,0 +1,69 @@
+//
+// Contiene la configuracion de los estilos utilizados en las pantallas estandar.
+//
+
+.btnAceptar {
+    background-image: url('resources/images/icons/16/accept.gif') !important;
+}
+
+.btnCancelar {
+    background-image: url('resources/images/icons/16/cancelar.png') !important;
+}
+
+.btnAtencion {
+	border-color:red !important;
+	background-color: red !important;
+	background-image: none;
+}
+
+.btnAgregar {
+    background-image: url('resources/images/icons/16/agregar.gif') !important;
+}
+
+.btnRecargar {
+    background-image: url('resources/images/icons/16/recargar.png') !important;
+}
+
+.btnFlechaArriba {
+    background-image: url('resources/images/icons/16/arrow-up-icon.png') !important;
+}
+
+.btnFlechaAbajo {
+    background-image: url('resources/images/icons/16/arrow-down-icon.png') !important;
+}
+
+.btnExcel {
+    background-image: url('resources/images/icons/24/excel.png') !important;
+}
+
+.btnPdf {
+    background-image: url('resources/images/icons/24/pdf.png') !important;
+}
+
+.btnImprimir {
+    background-image: url('resources/images/icons/24/imprimir.png') !important;
+}
+
+.btnClonar {
+	background-image: url('resources/images/icons/24/clonar.png') !important;
+}
+
+.btnEditar {
+	background-image: url('resources/images/icons/16/editar.png') !important;
+}
+
+.btnBorrar {
+	background-image: url('resources/images/icons/16/borrar.gif') !important;
+}
+
+.btnNuevo{
+	background-image: url('resources/images/icons/16/agregar.gif') !important;
+}
+
+.btnBuscar{
+	background-image: url('resources/images/icons/16/buscar.png') !important;
+}
+
+.btnGuardar {
+	background-image: url('resources/images/icons/16/guardar.png') !important;
+}
